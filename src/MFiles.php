@@ -2,6 +2,4 @@
 
 namespace Homeful\MFiles;
 
-class MFiles
-{
-}
+class MFiles {}

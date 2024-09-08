@@ -2,9 +2,9 @@
 
 namespace Homeful\MFiles\Tests;
 
+use Homeful\MFiles\MFilesServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Homeful\MFiles\MFilesServiceProvider;
 
 class TestCase extends Orchestra
 {
