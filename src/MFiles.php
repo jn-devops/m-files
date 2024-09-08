@@ -2,6 +2,7 @@
 
 namespace Homeful\MFiles;
 
+<<<<<<< HEAD
 use Illuminate\Http\Request;
 use GuzzleHttp\Client;
 use GuzzleHttp\Psr7\Request as GuzzleRequest;
@@ -374,3 +375,6 @@ class MFiles
     }
     
 }
+=======
+class MFiles {}
+>>>>>>> 22dd6aa45c914943817249789991d2f52de84807

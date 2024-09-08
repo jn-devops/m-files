@@ -2,9 +2,9 @@
 
 namespace Homeful\MFiles;
 
+use Homeful\MFiles\Commands\MFilesCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Homeful\MFiles\Commands\MFilesCommand;
 
 class MFilesServiceProvider extends PackageServiceProvider
 {
